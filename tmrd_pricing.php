@@ -3,7 +3,7 @@
  * Plugin Name: Amazing Pricing Table
  * Plugin URI: http://nakshighor.com/
  * Description: Amazing Pricing Table is one of the best custom plugin to publish your pricing table in your website.You do not need any kind of knowledge of Web Development Code.You can use this Plugin by clicking pricing button and fill up your tables information as you wisth. Anybody can able to use this plugin easily. You can add this plugin in your websites like Pages,Posts etc. with its lots of amazing features.When you fill up column forms you must use there 4 or 6 for good looking.So, Do not forget to give us five star feedback.
- * Version:  1.0
+ * Version:  1.0.0
  * Author: Theme Road
  * Author URI: http://nakshighor.com/price-table/
  * License:  GPL2
