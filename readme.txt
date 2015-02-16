@@ -1,5 +1,7 @@
 === Amazing pricing table ===
-Contributors: Theme Road
+Contributors: BestThemeRoad
+Author URI: https://profiles.wordpress.org/bestthemeroad
+Author: Theme Road
 Donate link: 
 Tags: easy, flexible, offer, plans, price, prices, pricing, pricing plan, pricing table, Pricing tables, responsive, shortcode, tables,comparison, comparison table, css table, discount offer, landing page, offer, page, plugin, plugins, Post, posts, price, price comparison chart, price gird, price table, pricing, pricing box, pricing grid, pricing page, pricing table, pricing table paypal, pricing table plugin pro, pricing table ready, pricing table responsive, pricing table shortcode, Pricing tables, responsive pricing table, special offer, table, widget, woocommerce
 Requires at least: 3.5
