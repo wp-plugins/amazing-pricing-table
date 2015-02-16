@@ -22,6 +22,9 @@ Plugin Features
 * You can use it in posts or pages.
 * Just use this by clicking the price button and fill up the forms as you wish.
 
+Installation Video Tutorial:
+[youtube https://www.youtube.com/watch?v=lYWCfhm231g]
+
  
 Live Preview: http://nakshighor.com/price-table/
 
