@@ -1,5 +1,5 @@
 === Amazing pricing table ===
-Contributors: Theme Road
+Contributors: ThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
