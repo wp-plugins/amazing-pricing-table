@@ -28,6 +28,18 @@ Installation Video Tutorial:
 [youtube https://www.youtube.com/watch?v=lYWCfhm231g]
 
  
+* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
+ * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
+ * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
+ * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
+ * [TR Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
+ * [Nice Responsive WP Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
+ * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
+ * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
+ * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
+ * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/) 
+ 
+ 
 Live Preview: http://nakshighor.com/price-table/
 
 == Installation ==
