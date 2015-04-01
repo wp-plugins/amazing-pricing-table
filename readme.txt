@@ -15,6 +15,8 @@ Display Pricing tables in your posts or pages in your sites
 
 == Description ==
 
+### Amazing pricing table by http://themeroad.net
+
 Amazing Pricing Table is one of the best custom plugin to publish your pricing table in your website.You do not need any kind of knowledge of Web Development Code.You can use this Plugin by clicking pricing button and fill up your tables information as you wisth. Anybody can able to use this plugin easily. You can add this plugin in your websites like Pages,Posts etc. with its lots of amazing features.When you fill up column forms you must use there 4 or 6 for good looking.So, Do not forget to give us five star feedback.
 
 Plugin Features
