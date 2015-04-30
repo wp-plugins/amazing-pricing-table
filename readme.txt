@@ -34,6 +34,7 @@ Installation Video Tutorial:
 * Drag & Drop Feature
 * Without any coding & customization
 * Super Easy to use.
+* Super animation Affect.
 * Much more..........
 
  
